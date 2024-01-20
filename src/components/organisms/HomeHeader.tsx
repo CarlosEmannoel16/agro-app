@@ -10,6 +10,6 @@ export const HomeHeader = () => {
 };
 
 const HomeHeaderArea = styled.View`
-  padding: 20px;
-  height: 200px;
+  padding: 10px;
+  height: 150px;
 `;

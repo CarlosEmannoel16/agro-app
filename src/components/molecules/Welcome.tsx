@@ -22,5 +22,5 @@ export const Welcome = () => {
 export const WelcomeArea = styled.View`
   flex-direction: row;
   align-items: center;
-  margin-top: 20px;
+  margin-top: 10px;
 `;
