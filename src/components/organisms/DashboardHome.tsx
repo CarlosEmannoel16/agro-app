@@ -21,13 +21,13 @@ export const DashboardHome = () => {
         <HomeDashboardItem
           iconPath={require("../../../assets/ordenha.png")}
           value="443L"
-          label="Leite"
+          label="Despesas"
         />
 
         <HomeDashboardItem
           iconPath={require("../../../assets/icon-vaca.png")}
           value="124"
-          label="Animais"
+          label="Receitas"
         />
       </Row>
     </DashboardHomeArea>

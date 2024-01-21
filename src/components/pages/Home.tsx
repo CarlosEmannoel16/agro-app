@@ -12,4 +12,7 @@ export const Home = () => {
   );
 };
 
-export const HomeArea = styled.View``;
+export const HomeArea = styled.View`
+  background-color: ${(props) => props.theme.color.primary};
+
+`;
